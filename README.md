@@ -63,7 +63,7 @@ AeroProfit Optimizer tackles today’s aviation obstacles—tight regulations, h
 This targeted effort has the potential to significantly amplify the airline's profitability.
 
 ## Schema of Database  
-![Schema](https://github.com/Sagar2627/AeroProfit-Optimizer-Enhancing-Aviation-Profitability-via-Data-Driven-Occupancy-Optimization/assets/134799886/ae4de0b2-b85f-4931-b899-9166dfa3725a)
+![Schema](https://github.com/priyankachaurasiaa/Airlines_Business_Optimization_Project/assets/134799886/ae4de0b2-b85f-4931-b899-9166dfa3725a)
 **Tables in Database**
 <pre><code>
 **List of tables in Database:**
